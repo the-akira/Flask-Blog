@@ -30,7 +30,7 @@ Instale as dependências necessárias
 pip install -r requirements.txt
 ```
 
-Navegue até a pasta `app` e execute o arquivo
+Execute o arquivo `app.py`
 
 ```
 python app.py
