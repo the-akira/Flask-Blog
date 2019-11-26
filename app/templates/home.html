@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Flask App</title>
+    <script src="https://kit.fontawesome.com/abb211c046.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+	<!-- Blog Header -->
+	<div class="header">
+		<a href="https://github.com/the-akira" target="_blank"><i class="fab fa-github fa-3x"></i></a>
+		<a href="https://stackoverflow.com/" target="_blank"><i class="fab fa-stack-overflow fa-3x"></i></a>
+		<a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter fa-3x"></i></a>
+		<a href="https://facebook.com/" target="_blank"><i class="fab fa-facebook-square fa-3x"></i></a>
+	</div>
+
+	<!-- Blog Posts -->
+	{% for post in posts %}
+	<div class="container">
+		<h1 class="titulo">{{ post.titulo }}</h1>	
+		<a href="{{ post.url }}"><img src="{{ post.avatar }}"></a>
+		<p>Escrito por <b>{{ post.autor }}</b></p>
+		<p class="texto">{{ post.conteudo }}</p>
+		<a class="link" href="{{ post.url }}">Ler mais</a>
+		<div class="data">
+			<p class="dt">{{ post.data }}</p>
+		</div>
+	</div>
+	<br>
+	{% endfor %}	
+</body>
+</html>
