@@ -37,3 +37,5 @@ python app.py
 ```
 
 Navegue até a página `http://127.0.0.1:5000/` para ver a aplicação.
+
+Utilize o arquivo `posts.py` para definir os posts do blog
