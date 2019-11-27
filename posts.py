@@ -1,3 +1,11 @@
+# Arquivo para a definição dos posts
+# Para criar um post é necessário adicionar um dicionário à lista posts com as seguintes entradas:
+## 'autor': 'Nome do autor'
+## 'titulo': 'Título do Post'
+## 'conteudo': 'Breve descrição sobre o post'
+## 'data': 'data em que foi postado'
+## 'url': 'URL para o post, pode ser por exemplo um repositório git'
+## 'avatar': 'imagem que representa o post'
 posts = [
 	{
 		'autor': 'Gabriel Felippe',
