@@ -4,7 +4,7 @@ Menor e mais simples Blog do Mundo.
 
 Pequena aplicação feita como exemplo para ensinar como fazer Deploy de uma aplicação Flask.
 
-Leia o **[Tutorial](https://akirablog.surge.sh/posts/flask-heroku/)**
+Leia o **[Tutorial](https://akiradev.netlify.app/posts/flask-heroku/)**
 
 ## Como utilizar a aplicação
 
