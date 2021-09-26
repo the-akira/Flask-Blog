@@ -6,6 +6,8 @@ Pequena aplicação feita como exemplo para ensinar como fazer Deploy de uma apl
 
 Leia o **[Tutorial](https://akiradev.netlify.app/posts/flask-heroku/)**
 
+---
+
 ## Como utilizar a aplicação
 
 ### Crie um clone do repositório
