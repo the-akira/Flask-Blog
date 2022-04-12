@@ -13,7 +13,7 @@ posts = [
         'conteudo': 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
         'data': 'April 21, 2019',
         'url': 'https://github.com/the-akira',
-        'avatar': 'https://i.imgur.com/25PBUQj.jpeg'
+        'avatar': 'https://raw.githubusercontent.com/the-akira/Flask-Blog/master/static/imagens/hal9000.jpg'
     },
     {
         'autor': 'Gabriel Felippe',
@@ -21,7 +21,7 @@ posts = [
         'conteudo': 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
         'data': 'April 27, 2019',
         'url': 'https://github.com/the-akira',
-        'avatar': 'https://i.pinimg.com/originals/56/4b/9d/564b9d624b683f34831a74058cd3efb0.gif'
+        'avatar': 'https://raw.githubusercontent.com/the-akira/Flask-Blog/master/static/imagens/flower.gif'
     },
     {
         'autor': 'Gabriel Felippe',
@@ -29,7 +29,7 @@ posts = [
         'conteudo': 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
         'data': 'April 28, 2019',
         'url': 'https://github.com/the-akira',
-        'avatar': 'https://upload.wikimedia.org/wikipedia/commons/f/f4/Lisplogo.png'
+        'avatar': 'https://raw.githubusercontent.com/the-akira/Flask-Blog/master/static/imagens/lisp.png'
     },
     {
         'autor': 'Gabriel Felippe',
@@ -37,7 +37,7 @@ posts = [
         'conteudo': 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
         'data': 'May 28, 2019',
         'url': 'https://github.com/the-akira',
-        'avatar': 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/fractal-art-black-and-blue-mandelbrot-set-matthias-hauser.jpg'
+        'avatar': 'https://raw.githubusercontent.com/the-akira/Flask-Blog/master/static/imagens/mandelbrotset.jpg'
     },
     {
         'autor': 'Gabriel Felippe',
@@ -45,6 +45,6 @@ posts = [
         'conteudo': 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
         'data': 'April 28, 2019',
         'url': 'https://github.com/the-akira',
-        'avatar': 'https://images-na.ssl-images-amazon.com/images/I/71hRFSDN4LL._SX425_.jpg'
+        'avatar': 'https://raw.githubusercontent.com/the-akira/Flask-Blog/master/static/imagens/fractal.jpg'
     }
 ]
